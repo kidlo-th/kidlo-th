@@ -55,7 +55,8 @@ Here are some ideas to get you started:
 <!--![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)-->
 <!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)-->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kidlo-th&count_private=true&show_icons=true&include_all_commits=true)
+## Github Stats
+![](https://github-readme-stats.vercel.app/api?username=kidlo-th&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kidlo-th&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kidlo-th.kidlo-th)
