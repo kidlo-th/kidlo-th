@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ## ⚡ Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -37,10 +39,10 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)-->
 <!--![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)-->
 <!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)-->
 <!--![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)-->
