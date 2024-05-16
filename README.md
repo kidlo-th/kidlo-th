@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **kidlo-th/kidlo-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📋
-
 乐于折腾，但没有结果的三分热度
+
+ - 🎯: Inspired to become a master of Shandong and Sichuan cuisine
+ - 🔭: Likes interesting projects
+ - 🌱: Dancing with code and battling bugs
+
+
 <!--
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
 [![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
@@ -24,12 +28,12 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
 -->
 
-## 📇 Statistics Data
+#### 📇 Statistics Data
 <!--![](https://github-readme-stats.vercel.app/api?username=kidlo-th&count_private=true&show_icons=true&include_all_commits=true)-->
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kidlo-th&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 
-## ⚡Technologies
+#### ⚡Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
@@ -38,6 +42,7 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
