@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=kidlo-th)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=kidlo-th)](https://github.com/anuraghazra/github-readme-stats)
 
 
