@@ -66,5 +66,4 @@ Here are some ideas to get you started:
 <!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)-->
 
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kidlo-th.kidlo-th)
