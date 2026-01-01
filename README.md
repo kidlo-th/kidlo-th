@@ -1,65 +1,49 @@
 ## Hi there 👋
 
-<!--
-**kidlo-th/kidlo-th** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer who enjoys exploring systems, building tools, and turning ideas into working code.  
+Curious about how things work under the hood — and happier when they actually run.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and refining my skills across multiple programming languages
+- 🔭 Interested in practical, problem-driven projects
+- ⚡ Enjoys coding, debugging, and continuous improvement
+- 🍜 Also passionate about food and the small joys outside the terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-乐于折腾，但没有结果的三分热度
+---
 
- - 🎯: Inspired to become a master of Shandong and Sichuan cuisine
- - 🔭: Likes interesting projects
- - 🌱: Dancing with code and battling bugs
+#### 📊 GitHub Stats
 
+<p align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kidlo-th&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlo-th&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+</p>
 
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)
-[![Medium Badge](https://img.shields.io/badge/rashedul-alam-12100E?style=flat-square&logo=medium&logoColor=white&link=https://rashedul-alam.medium.com/)](https://rashedul-alam.medium.com/)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/rashedul.alam.anik.2-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
--->
+---
 
-#### 📇 Statistics Data
-<!--![](https://github-readme-stats.vercel.app/api?username=kidlo-th&count_private=true&show_icons=true&include_all_commits=true)-->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kidlo-th&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kidlo-th&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+#### 🛠 Tech Stack
 
+**Languages**
+  
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=Cplusplus)
 
-#### ⚡Technologies
+**Infrastructure & Tools**
 
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![Container](https://img.shields.io/badge/-Containerd-black?style=flat-square&logo=Containerd)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=Markdown)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Java](https://img.shields.io/badge/-Java-00599C?style=flat-square&logo=c)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Nginx](https://img.shields.io/badge/-Nginx-181717?style=flat-square&logo=Nginx&logoColor=green)
-<!--![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)-->
-<!--![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)-->
-<!--![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)-->
-<!--![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)-->
-<!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)-->
-<!--![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)-->
-<!--![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)-->
-<!--![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)-->
-<!--![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)-->
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx&logoColor=green)
 
+**Databases & Middleware**
+
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=Elasticsearch)
+
+---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kidlo-th.kidlo-th)
