@@ -13,7 +13,7 @@ Curious about how things work under the hood — and happier when they actually 
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" height="164" />
+  <img src="./profile/stats.svg" height="189" />
   <img src="./profile/top-langs.svg"/>
 </p>
 
