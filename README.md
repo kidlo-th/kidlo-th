@@ -19,26 +19,19 @@ Curious about how things work under the hood — and happier when they actually 
 
 ---
 
-#### 🛠 Tech Stack
+#### ⚡Technologies
 
-**Languages**
   
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=Cplusplus)
-
-**Infrastructure & Tools**
-
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
 ![Container](https://img.shields.io/badge/-Containerd-black?style=flat-square&logo=Containerd)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=Kubernetes)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=Nginx&logoColor=green)
-
-**Databases & Middleware**
-
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
