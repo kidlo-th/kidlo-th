@@ -13,13 +13,9 @@ Curious about how things work under the hood — and happier when they actually 
 #### 📊 GitHub Stats
 
 <p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=kidlo-th&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite" />
-  <img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=kidlo-th&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=graywhite" />
+  <img src="./profile/stats.svg" height="164" />
+  <img src="./profile/top-langs.svg"/>
 </p>
-
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
-![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 ---
 
 #### ⚡Technologies
