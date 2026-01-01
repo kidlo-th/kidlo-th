@@ -6,7 +6,7 @@ Curious about how things work under the hood — and happier when they actually 
 - 🌱 Currently learning and refining my skills across multiple programming languages
 - 🔭 Interested in practical, problem-driven projects
 - ⚡ Enjoys coding, debugging, and continuous improvement
-- 🍜 Also passionate about food and the small joys outside the terminal
+- 🍜 Inspired to become a master of Shandong and Sichuan cuisine
 
 ---
 
